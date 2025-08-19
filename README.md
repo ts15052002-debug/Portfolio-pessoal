@@ -45,7 +45,7 @@ Usuários que precisam organizar tarefas do dia a dia de forma simples e prátic
 - Excluir tarefas
 - Salvar automaticamente no navegador (localStorage)
 
-💡 Por que esse projeto é importante?
+## 💡 Por que esse projeto é importante?
 
 Além de consolidar minha base em HTML, CSS e JavaScript, esse projeto mostra como estruturar uma aplicação web real, com funcionalidades completas e escaláveis. Ele também serve como base para futuras evoluções, como integração com APIs, banco de dados ou até frameworks como React.
 
